@@ -3,4 +3,6 @@ My take on Mark Lord's GPS/WiFi/BT interface for Celestron Telescope mounts http
 
 All code is credit to Mark Lord mlord@pobox.com
 
-For Profit production of this board is expressly forbidden.
+Board/schematic files are made with Eagle 9.x.x. PDF file of schematic contains BOM.
+
+For profit production of this board is expressly forbidden.
