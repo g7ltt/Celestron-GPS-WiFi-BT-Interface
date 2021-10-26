@@ -12,4 +12,5 @@ Some folks have noted that the ESP32-DevBoard-C as used in this project comes in
 
 "For profit" production of this board is expressly forbidden.
 
+Make sure that you set the voltage from the power PCB to 5.02V BEFORE you add any other PCB's. Failure to set the correct output voltage may result in undesired results and even cause failures of the other parts. Refilling the blue smoke let out by the other components is very nearly impossible for the electronics hobbyist.
 
